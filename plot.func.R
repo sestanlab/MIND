@@ -1,7 +1,8 @@
 ###################################################################
 # Time: 2025-08-13 15:33:55 EDT                                   #
-# Author: Menglei ZHANG                                           #
+# Author: Menglei ZHANG, Xinyun LI                                #
 # Email: morei.menglei.zhang@yale.edu                             #
+#        xinyun.li@yale.edu                                       #
 # Description: This script includes functions to plot             #
 #              normal 2D smoothened/unsmoothened heatmaps of      # 
 #              gene modules, and genes using micro-array data     #
